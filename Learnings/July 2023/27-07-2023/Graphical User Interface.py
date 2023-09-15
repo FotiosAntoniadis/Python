@@ -13,7 +13,7 @@ window.title("Deez Window")
 # change window's name
 
 icon = PhotoImage(file='Graphical User Interface Image.png')
-# change icon from jpg/png (can't input) to Photo Image (can input)
+# change icon from png (can't input) to Photo Image (can input) (jpg cannot be recognised)
 
 window.iconphoto(True, icon)
 # put "icon" as window icon/logo
